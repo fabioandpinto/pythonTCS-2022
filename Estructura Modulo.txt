@@ -1,0 +1,44 @@
+Bloque - Introducción a Python 
+Sesión I - Python 
+- Introduccion a python (definicion, instalacion y hello world)
+- Tipos de datos 
+- Operadores
+- Ejercicios Básicos 
+- Condicionales 
+- Ejercicios condicionales
+
+Sesión II - Python 2 
+- Revisión de ejercicios 
+- Bucles (While y for) 
+- Ejercicios 
+- Estructuras de datos:
+	Listas
+	Tuplas
+	Diccionarios 
+- Ejercicios de estructuras de datos 
+
+Sesión III - Python 3 
+- Funciones 
+- Ejercicios 
+- Módulos 
+- Ejercicios 
+- Algunos módulos usados (os, numpy, pandas, matplotlib)
+- Introducción a los módulos para analisis de datos 
+
+Sesion IV - Estadística 
+- Introducción a la estadística 
+- Variables, tablas y distribuciones
+- Gráficos descriptivos
+- Medidas de tendencia central 
+- Medidas de dispersión 
+- Ejercicios con python (medidas de dispersión) 
+
+Sesion V - Estadística 2
+- Contraste de hipótesis 
+- Análisis de regresión lineal simple y multiple
+- Ejercicio con python 
+
+Sesion VI - Desarrollo ágil y proyectos de Data 
+- La agilidad como filosofía 
+- Metología SCRUM para desarrollo de software 
+- Metdología CRISP y ASUM para data analytics 
