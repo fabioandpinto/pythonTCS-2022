@@ -1,5 +1,6 @@
 # pythonTCS-2022
-## Material del curso de PYTHON para los semilleros de Big Data de Tata Consultancy Services 2022 
+## Material del curso de PYTHON 
+### Semilleros de Big Data de Tata Consultancy Services 2022 
 
 ### Scripts: 
 
